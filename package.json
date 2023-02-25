@@ -12,5 +12,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "pa11y": "^6.0.1"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
